@@ -6,17 +6,17 @@ baseurl: '/PanelCV' #change it according to your repository name
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Diego França  ## put your name
+title: 'Programador Fullstack'  ## your title
+location: Curvelo , MG
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
+#facebook: http://www.facebook.com  ## your facebook account url
 twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+linkedin: https://www.linkedin.com/in/diego-fran%C3%A7a-4a15bb28/  ## your linkedin account url
+#dribbble: http://www.dribble.com  ## you dribbble account url
+#foursquare: http://www.foursquare.com  ## your foursquare account url
 
 
 
